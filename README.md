@@ -2,7 +2,7 @@
 
 ## User Flow
 
-![IT Task Workflow](./assets/workflow-diagram.png)
+![IT Task Workflow](./assets/userflow.png)
 
 #Roles 
 -Head/Admin
