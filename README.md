@@ -4,7 +4,10 @@
 
 ![IT Task Workflow](./assets/userflow.png)
 
-#Roles 
+#Roles
+<br>
 -Head/Admin
+<br>
 -Manager
+<br>
 -Employee
